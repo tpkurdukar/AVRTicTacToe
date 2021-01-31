@@ -1,8 +1,8 @@
 /*
- * tictactoe.c
+ * Contains event-driven main implementation of tic tac toe game for AVR microcontrollers
+ * and interfaces with 74hc595 and 74hc165 using bit banging
  *
- * Created: 8/9/2020 8:56:22 PM
- * Author : prair
+ * Author : Tejus Kurdukar
  */ 
 
 #include <avr/io.h>
